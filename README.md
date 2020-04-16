@@ -6,7 +6,7 @@ I will also implement Kernels to allow for non-linear separability of data.
 ## To Do: 
 [x] exhaustive SVM 
 
-[ ] SMO SVM 
+[X] SGD SVM 
 
 [ ] Kernel - Polynonmial 
 
