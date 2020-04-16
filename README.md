@@ -5,9 +5,14 @@ I will also implement Kernels to allow for non-linear separability of data.
 
 Exhaustive SVM is simply iterating through all combinations of w, and b, and finding the value that generates the smallest normalization value. 
 
-SGD SVM, uses SGD to solve 'w', by modifying decision boundary with respect to w, and b in order to minimize the hinge loss L(0,1-(yi(wxi +b)). 
 
 
+
+SGD SVM, uses SGD to solve 'w', by modifying decision boundary with respect to w, and b in order to minimize the hinge loss:
+
+L(0,1-(yi(wxi +b)). 
+
+![SVM](/images/margin.png)
 
 ## To Do: 
 [x] exhaustive SVM 
