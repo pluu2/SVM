@@ -13,6 +13,8 @@ SGD SVM, uses SGD to solve 'w', by modifying decision boundary with respect to w
 L(0,1-(yi(wxi +b)). 
 
 ![SVM](/images/svm_graph.png)
+
+
 Figure: Red is points classified as -1, Green are points classified as +1, blue points were points used to train SVM located in their respective classification areas. 
 
 
