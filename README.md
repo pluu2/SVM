@@ -12,7 +12,7 @@ SGD SVM, uses SGD to solve 'w', by modifying decision boundary with respect to w
 
 L(0,1-(yi(wxi +b)). 
 
-![SVM](/images/margin.png)
+![SVM](/images/svm_graph.png)
 
 ## To Do: 
 [x] exhaustive SVM 
