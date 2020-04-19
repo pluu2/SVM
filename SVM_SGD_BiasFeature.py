@@ -8,7 +8,7 @@ class svm():
     starting_w=1 
     starting_b=10 
     self.w=[starting_w,starting_w,starting_b] #some implementations have rolled bias together to simplify calculations. 
-    self.C = 2.0
+    self.C = 1.0
   def fit (self,data,labels,epochs=100): 
     temp_data= np.array(data) 
     bias = np.array(np.ones(len(labels)))
