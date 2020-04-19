@@ -8,7 +8,7 @@ Exhaustive SVM is simply iterating through all combinations of w, and b, and fin
 
 
 
-SGD SVM, uses SGD to solve 'w', by modifying decision boundary with respect to w, and b in order to minimize the hinge loss:
+SVM_SGD_BiasFeature.py , uses SGD to solve 'w', by modifying decision boundary with respect to w, and b in order to minimize the hinge loss:
 
 L(0,1-(yi(wxi +b)). 
 
