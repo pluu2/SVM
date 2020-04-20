@@ -18,6 +18,11 @@ L(0,1-(yi(wxi +b)).
 Figure: Red is points classified as -1, Green are points classified as +1, blue points were points used to train SVM located in their respective classification areas. 
 
 
+SGD_SVM - Polynominal Kernel.py contains implementation using python for a SGD optimized SVM with polynomial kernel. 
+
+![SVM_kernel](/images/SVM_Polynomial_Kernel.png)
+
+
 ## To Do: 
 [x] exhaustive SVM 
 
