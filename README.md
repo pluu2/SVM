@@ -28,7 +28,7 @@ SGD_SVM - Polynominal Kernel.py contains implementation using python for a SGD o
 
 [X] SGD SVM 
 
-[ ] Kernel - Polynonmial 
+[X] Kernel - Polynonmial 
 
 [ ] Kernel - Central Basis Function (Gaussian) 
 
